@@ -1,6 +1,4 @@
 
-![snake gif](https://github.com/shoumik011/shoumik011/blob/output/github-contribution-grid-snake.gif)
-
 
 
 # Shoumik Ahmed 
