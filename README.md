@@ -1,4 +1,5 @@
-# Shoumik Ahmed
+# Shoumik Ahmed 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/snehaow/](https://www.linkedin.com/in/shoumik-ahmed-950b66293/))
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoumik011&show_icons=true&locale=en&layout=compact&theme=dark" alt="shoumik011" />
@@ -8,8 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoumik011&show_icons=true&locale=en&theme=dark" alt="shoumik011" />
 </p>
 
-**LinkedIn:** [linkedin.com/in/shoumik-ahmed-950b66293](https://www.linkedin.com/in/shoumik-ahmed-950b66293/)  
-**Portfolio:** [shoumik011.weebly.com](https://shoumik011.weebly.com/)  
+
 
 ---
 
