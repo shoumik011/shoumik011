@@ -1,4 +1,12 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shoumik011/count.svg" />
+</p>
+
 # Shoumik Ahmed 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/snehaow/](https://www.linkedin.com/in/shoumik-ahmed-950b66293/))
 
 <p>
