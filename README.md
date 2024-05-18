@@ -1,4 +1,3 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/output/github-contribution-grid-snake.svg)
 
 
 # Shoumik Ahmed 
